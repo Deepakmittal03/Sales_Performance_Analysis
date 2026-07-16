@@ -6,7 +6,7 @@ The **Superstore Sales Analysis** project was developed to analyze retail sales 
 
 By performing data cleaning, exploratory data analysis (EDA), and visualization, the project transforms raw sales data into actionable insights that can support strategic business decision-making.
 
----   
+---    
    
 ## 🎯 Objectives
 
