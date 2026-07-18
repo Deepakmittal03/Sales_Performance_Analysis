@@ -8,7 +8,7 @@ By performing data cleaning, exploratory data analysis (EDA), and visualization,
 
 ---    
    
-## 🎯 Objectives
+## 🎯 Objectives 
 
 - Analyze overall sales performance and business growth.
 - Identify top-performing product categories and sub-categories.
