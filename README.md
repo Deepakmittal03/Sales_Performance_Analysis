@@ -5,7 +5,7 @@
 The **Superstore Sales Analysis** project was developed to analyze retail sales data and uncover valuable business insights through data analytics and visualization. The project focuses on understanding sales performance, customer behavior, regional trends, product profitability, and business growth opportunities using Python-based data analysis techniques.
 
 By performing data cleaning, exploratory data analysis (EDA), and visualization, the project transforms raw sales data into actionable insights that can support strategic business decision-making.
-
+ 
 ---   
    
 ## 🎯 Objectives   
