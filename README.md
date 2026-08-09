@@ -12,7 +12,7 @@ By performing data cleaning, exploratory data analysis (EDA), and visualization,
 
 - Analyze overall sales performance and business growth.
 - Identify top-performing product categories and sub-categories.
-- Understand customer purchasing behavior.
+- Understand customer purchasing behavior. 
 - Evaluate regional and segment-wise sales performance.
 - Discover high-revenue products and customers.
 - Visualize sales trends and key business metrics.
