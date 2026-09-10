@@ -28,7 +28,7 @@ The dataset contains retail sales transaction records including:
 - Customer Information
 - Product Categories
 - Sales Revenue
-- Shipping Information
+- Shipping Information 
 - Regional Data
 - Customer Segments
 
